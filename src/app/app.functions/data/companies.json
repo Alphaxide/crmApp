@@ -1,0 +1,72 @@
+{
+  "acmecorp.com": {
+    "name": "Acme Corporation",
+    "industry": "Technology",
+    "size": "201-1000",
+    "location": "San Francisco, CA",
+    "founded": 2015
+  },
+  "techstart.io": {
+    "name": "TechStart",
+    "industry": "Technology",
+    "size": "11-50",
+    "location": "Austin, TX",
+    "founded": 2020
+  },
+  "globalfinance.com": {
+    "name": "Global Finance Group",
+    "industry": "Finance",
+    "size": "1000+",
+    "location": "New York, NY",
+    "founded": 2005
+  },
+  "healthplus.com": {
+    "name": "HealthPlus Medical",
+    "industry": "Healthcare",
+    "size": "51-200",
+    "location": "Boston, MA",
+    "founded": 2012
+  },
+  "retailpro.com": {
+    "name": "RetailPro Solutions",
+    "industry": "Retail",
+    "size": "201-1000",
+    "location": "Chicago, IL",
+    "founded": 2010
+  },
+  "innovatetech.com": {
+    "name": "Innovate Technologies",
+    "industry": "Technology",
+    "size": "51-200",
+    "location": "Seattle, WA",
+    "founded": 2018
+  },
+  "manufacturing-co.com": {
+    "name": "Manufacturing Co",
+    "industry": "Manufacturing",
+    "size": "1000+",
+    "location": "Detroit, MI",
+    "founded": 1995
+  },
+  "edulearn.org": {
+    "name": "EduLearn Institute",
+    "industry": "Education",
+    "size": "11-50",
+    "location": "Cambridge, MA",
+    "founded": 2016
+  },
+  "cloudservices.io": {
+    "name": "Cloud Services Inc",
+    "industry": "Technology",
+    "size": "201-1000",
+    "location": "San Jose, CA",
+    "founded": 2014
+  },
+  "marketingpros.com": {
+    "name": "Marketing Pros Agency",
+    "industry": "Marketing",
+    "size": "11-50",
+    "location": "Los Angeles, CA",
+    "founded": 2017
+  }
+}
