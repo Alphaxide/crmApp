@@ -1,0 +1,74 @@
+{
+  "patterns": [
+    {
+      "keywords": ["ceo", "chief executive"],
+      "seniority": "C-Level",
+      "department": "Executive"
+    },
+    {
+      "keywords": ["cto", "chief technology"],
+      "seniority": "C-Level",
+      "department": "Engineering"
+    },
+    {
+      "keywords": ["cfo", "chief financial"],
+      "seniority": "C-Level",
+      "department": "Finance"
+    },
+    {
+      "keywords": ["cmo", "chief marketing"],
+      "seniority": "C-Level",
+      "department": "Marketing"
+    },
+    {
+      "keywords": ["vp", "vice president"],
+      "seniority": "Executive",
+      "department": "Leadership"
+    },
+    {
+      "keywords": ["director"],
+      "seniority": "Senior",
+      "department": "Management"
+    },
+    {
+      "keywords": ["senior", "sr", "lead"],
+      "seniority": "Senior",
+      "department": "Unknown"
+    },
+    {
+      "keywords": ["manager", "head of"],
+      "seniority": "Mid",
+      "department": "Management"
+    },
+    {
+      "keywords": ["engineer", "developer", "programmer"],
+      "seniority": "Mid",
+      "department": "Engineering"
+    },
+    {
+      "keywords": ["marketing"],
+      "seniority": "Mid",
+      "department": "Marketing"
+    },
+    {
+      "keywords": ["sales", "account executive"],
+      "seniority": "Mid",
+      "department": "Sales"
+    },
+    {
+      "keywords": ["analyst", "specialist"],
+      "seniority": "Entry",
+      "department": "Operations"
+    },
+    {
+      "keywords": ["coordinator", "assistant"],
+      "seniority": "Entry",
+      "department": "Operations"
+    },
+    {
+      "keywords": ["intern", "trainee"],
+      "seniority": "Entry",
+      "department": "Various"
+    }
+  ]
+}

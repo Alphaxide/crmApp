@@ -1,0 +1,7 @@
+{
+  "uid": "settings-crm-app-tool",
+  "type": "settings",
+  "config": {
+    "entrypoint": "/app/settings/SettingsPage.tsx"
+  }
+}
